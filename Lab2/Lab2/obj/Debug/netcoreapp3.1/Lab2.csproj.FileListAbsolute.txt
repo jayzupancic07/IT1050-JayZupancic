@@ -1,0 +1,13 @@
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\jayzu\Source\Repos\jayzupancic07\IT1050-JayZupancic\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
