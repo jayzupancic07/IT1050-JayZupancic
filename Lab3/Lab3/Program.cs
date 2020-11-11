@@ -26,14 +26,7 @@ namespace Lab3
                     Console.WriteLine("SLOW NOW");
             }
 
-        }
 
-    }
-
-    class Program2
-    {
-        static void Main(string[] args)
-        {
             //Write a program that declares and assigns a value to a Boolean variable called isTrue.  
             //Use a condition to output “It is True!” or “It is False!” based on the assigned value
 
@@ -58,13 +51,7 @@ namespace Lab3
             {
                 Console.WriteLine("It is false!)");
             }
-        }
-    }
 
-    class Program3
-    {
-        static void Main(string[] args)
-        {
             //Write a program that converts a Fahrenheit temperature to Celsius
 
             double celsius;
@@ -81,13 +68,7 @@ namespace Lab3
             {
                 Console.WriteLine("it is hot");
             }
-        }
-    }
 
-    class Program4
-    {
-        static void Main(string[] args)
-        {
             //outputs values 1 to 10.  Increment by 1
             int x = 10;
             while (x <= 10)
@@ -108,9 +89,10 @@ namespace Lab3
             {
                 Console.WriteLine(y += 2);
             }
+
         }
 
-
     }
+
 
 }

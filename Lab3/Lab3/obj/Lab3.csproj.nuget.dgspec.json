@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayzu\\Source\\Repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj": {}
+    "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayzu\\Source\\Repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj": {
+    "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayzu\\Source\\Repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj",
+        "projectUniqueName": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "C:\\Users\\jayzu\\Source\\Repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj",
+        "projectPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\Lab3.csproj",
         "packagesPath": "C:\\Users\\jayzu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayzu\\Source\\Repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\obj\\",
+        "outputPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab3\\Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jayzu\\AppData\\Roaming\\NuGet\\NuGet.Config",
