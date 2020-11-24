@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\LAb5\\LAb5\\LAb5.csproj",
-      "projectName": "LAb5",
-      "projectPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\LAb5\\LAb5\\LAb5.csproj",
+      "projectUniqueName": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab05\\Lab05\\Lab05.csproj",
+      "projectName": "Lab05",
+      "projectPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab05\\Lab05\\Lab05.csproj",
       "packagesPath": "C:\\Users\\jayzu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\LAb5\\LAb5\\obj\\",
+      "outputPath": "C:\\Users\\jayzu\\source\\repos\\jayzupancic07\\IT1050-JayZupancic\\Lab05\\Lab05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayzu\\AppData\\Roaming\\NuGet\\NuGet.Config",
