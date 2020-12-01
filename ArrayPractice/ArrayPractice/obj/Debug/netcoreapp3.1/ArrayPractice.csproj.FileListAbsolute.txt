@@ -1,0 +1,13 @@
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.exe
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.deps.json
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.json
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.dev.json
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfo.cs
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.genruntimeconfig.cache
+C:\Users\jayzu\source\repos\jayzupancic07\IT1050-JayZupancic\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csprojAssemblyReference.cache
